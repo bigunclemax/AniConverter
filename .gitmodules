@@ -1,0 +1,6 @@
+[submodule "cxxopts"]
+	path = cxxopts
+	url = https://github.com/jarro2783/cxxopts.git
+[submodule "h264bitstream"]
+	path = h264bitstream
+	url = https://github.com/bigunclemax/h264bitstream.git
